@@ -1,4 +1,4 @@
-ui: bdd
+ui: qunit
 browsers:
   - name: chrome
     version: 27..latest
