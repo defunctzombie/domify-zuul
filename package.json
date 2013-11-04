@@ -5,6 +5,7 @@
   "keywords": ["dom", "html", "client", "browser", "component"],
   "author": "TJ Holowaychuk <tj@vision-media.ca>",
   "main": "./index.js",
+  "dependencies": {},
   "devDepedencies": {
     "zuul": "defunctzombie/zuul#cloud"
   },
