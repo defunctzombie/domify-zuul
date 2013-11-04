@@ -1,5 +1,4 @@
-
-# domify
+# domify [![Build Status](https://travis-ci.org/defunctzombie/domify-zuul.png?branch=master)](https://travis-ci.org/defunctzombie/domify-zuul)
 
   Turn HTML into DOM elements x-browser.
 
