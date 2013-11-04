@@ -9,6 +9,8 @@ domify('<p>Hello</p><p>World</p>')
 
 ## Running tests
 
+Tests can be run locally in the browser or in the cloud using [zuul](https://github.com/defunctzombie/zuul)
+
 ```
 $ zuul --local 9000 -- test
 ```
